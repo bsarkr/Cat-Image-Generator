@@ -2,7 +2,7 @@
 //  Cat_Image_GeneratorApp.swift
 //  Cat-Image-Generator
 //
-//  Created by Bilash Sarkar on 2/4/25.
+//  Created by Bilash Sarkar on 2/1/25.
 //
 
 import SwiftUI
