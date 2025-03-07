@@ -1,6 +1,6 @@
 #Cat-Image-Generator
 
-This app utilizes basic Swift functionality to deliver an app that can generate cat images.
+This is a personal project app that utilizes basic Swift functionality to deliver an app that can generate cat images.
 
 I use "The Cat API":  " https://thecatapi.com/ " to generate these images
 
